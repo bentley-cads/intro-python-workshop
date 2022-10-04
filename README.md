@@ -4,7 +4,7 @@ The files shown above are for the Intro Python Review workshop run by Bentley's 
 
 ## Download all files
 
-Though youc an click any file above to preview it, it's simpler to just [download them all at once as a ZIP file](https://github.com/bentley-cads/intro-python-workshop/archive/refs/heads/main.zip).
+Though you can click any file above to preview it, it's simpler to just [download them all at once as a ZIP file](https://github.com/bentley-cads/intro-python-workshop/archive/refs/heads/main.zip).
 
 ## Try exercises online
 
